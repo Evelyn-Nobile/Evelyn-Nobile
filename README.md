@@ -36,9 +36,6 @@
 [![Sequelize](https://img.shields.io/badge/Sequelize-399AF3?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
 
 
-## Descripción
-
-Bienvenido a mi increíble proyecto. Aquí encontrarás...
 
 <h3>To be continue...</h3>
 
