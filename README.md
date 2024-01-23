@@ -10,8 +10,8 @@
   <h2>I like</h2>
   <ul>
     <li>The cold ❄</li>
-    <li>Mate 🧉</li>
-    <li>Chocolate 🍫</li>
+    <li>The Mate 🧉</li>
+    <li>The Chocolate 🍫</li>
     <li>Act 🎭</li>
     <li>Travel ✈️</li>
     <li>Harry Potter ⚡</li>
