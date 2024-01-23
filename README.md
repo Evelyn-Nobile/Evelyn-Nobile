@@ -34,6 +34,8 @@
 [![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-399AF3?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
+[![Cloudinary](https://res.cloudinary.com/your_account/image/upload/vyour_version/badge.png)](https://cloudinary.com/)
+
 
 
 
