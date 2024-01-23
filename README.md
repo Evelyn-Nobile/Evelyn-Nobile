@@ -15,7 +15,7 @@
     <li>Act 🎭</li>
     <li>Travel ✈️</li>
     <li>Harry Potter ⚡</li>
-    <li>Messi ⚽</li>
+    <li>Lionel Messi ⚽</li>
   </ul>
 
 <h2>Technologies learned so far:</h2>
