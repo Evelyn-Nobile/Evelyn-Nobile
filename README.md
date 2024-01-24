@@ -68,8 +68,8 @@
 <div style="text-align: center;">
   <h2>Download my resume</h2>
 
-  <p>English: <a href="https://drive.google.com/file/d/1OXPBgYlYxl1vSjqegqfZjbu73LMi_mJT/view?usp=sharing" target="_blank">Download</a></p>
-  <p>Spanish: <a href="https://drive.google.com/file/d/1CUe8nAGt3SJDvwPpB8slxlDql038GSbd/view?usp=sharing" target="_blank" >Descargar</a></p>
+  <p>English: <a href="https://drive.google.com/file/d/1Pk7bCz0lH2iwsWgFvQ4Pt-Bw9gWytc9D/view?usp=sharing" target="_blank">Download</a></p>
+  <p>Spanish: <a href="https://drive.google.com/file/d/1xZdceYdrBrGwpAyzQku1FwTWFsW4vBnc/view?usp=sharing" target="_blank" >Descargar</a></p>
 </div>
 
 </div>
