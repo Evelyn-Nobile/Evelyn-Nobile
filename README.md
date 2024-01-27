@@ -69,7 +69,7 @@
   <h2>Download my resume</h2>
 
   <p>English: <a href="https://drive.google.com/file/d/1Pk7bCz0lH2iwsWgFvQ4Pt-Bw9gWytc9D/view?usp=sharing" target="_blank">Download</a></p>
-  <p>Spanish: <a href="https://drive.google.com/file/d/1WsY9LtI1o4ZTVsMqEg66Nu7pyKgzhQRc/view?usp=sharing" target="_blank" >Descargar</a></p>
+  <p>Spanish: <a href="https://drive.google.com/file/d/1rcKkTkE3h4Ig503Jthv5FVEY3RnqzQKb/view?usp=sharing" target="_blank" >Descargar</a></p>
 </div>
 
 </div>
