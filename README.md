@@ -50,7 +50,7 @@
   <h2>Activity:</h2>
   <ul>
     <li>🔭 I’m currently working on: Improving my English skills and learning about more technologies</li>
-    <li>🌱 I’m currently learning: Ux/ui design</li>
+    <li>🌱 I’m currently learning: ux/ui design</li>
     <li>📫 How to reach me: <a href="mailto:nobileevelyn1@gmail.com">nobileevelyn1@gmail.com</a></li>
   </ul>
   
