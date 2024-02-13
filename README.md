@@ -12,8 +12,8 @@
     <li>The cold ❄</li>
     <li>The Mate 🧉</li>
     <li>The Chocolate 🍫</li>
-    <li>Act 🎭</li>
-    <li>Travel ✈️</li>
+    <li>Acting 🎭</li>
+    <li>Travelling ✈️</li>
     <li>Harry Potter ⚡</li>
     <li>Lionel Messi ⚽</li>
   </ul>
