@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Evelyn-Nobile/Evelyn-Nobile/main/banner.gif" style="display: block; margin: auto;" />
 
   <h2>About me</h2>
-  <p>I am a fullstack developer with a preference in the front-end area. Currently, I continue learning to improve myself day by day.</p> <br>
+  <p>I am a fullstack developer with a preference in the front-end area. Currently, I continue learning to improve myself day by day.</p> 
 
 <h2>Connect with me:</h2
              <a href="https://www.linkedin.com/in/evelyn-nobile/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
