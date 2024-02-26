@@ -65,11 +65,15 @@
   
 </div>
 
-<a href="https://git.io/streak-stats" style="display: inline-block; margin-top: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 50px;">
+  <a href="https://git.io/streak-stats" style="display: inline-block;">
     <img src="https://streak-stats.demolab.com?user=Evelyn-Nobile&theme=radical" alt="GitHub Streak" />
-</a>
+  </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelyn-nobile&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=evelyn-nobile&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-top: 20px;" />
+</div>
+
+
      
   </div>
 
