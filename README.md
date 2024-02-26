@@ -9,10 +9,11 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">    
   <p style="margin: 0;">Connect with me:</p>
-  <a href="https://www.linkedin.com/in/evelyn-nobile/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" style="width: 100px; height: 30px;" />
+  <a href="https://www.linkedin.com/in/evelyn-nobile/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" style="width: 100px; height: 30px; margin-left: 5px;" />
   </a>
 </div>
+
 
 
   <h2>I like</h2>
