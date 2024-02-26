@@ -58,11 +58,10 @@
   </ul>
 
 <div style="display: flex; justify-content: center; gap: 20px;">    
-<h2>Connect with me:</h2>
+  <h2 style="margin: 0;">Connect with me:</h2>
   <a href="https://www.linkedin.com/in/evelyn-nobile/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Evelyn-Nobile/Evelyn-Nobile/main/link.png" alt="LinkedIn" title="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;" />
   </a>
-  
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 50px;">
