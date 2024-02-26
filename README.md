@@ -5,12 +5,12 @@
   <img src="https://raw.githubusercontent.com/Evelyn-Nobile/Evelyn-Nobile/main/banner.gif" style="display: block; margin: auto;" />
 
   <h2>About me</h2>
-  <p>I am a fullstack developer with a preference in the front-end area. Currently, I continue learning to improve myself day by day.</p> <br> 
+  <p>I am a fullstack developer with a preference in the front-end area. Currently, I continue learning to improve myself day by day.</p> <br>
 
-
-  <p style="margin: 0;">Connect with me:  <a href="https://www.linkedin.com/in/evelyn-nobile/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
+<h2>Connect with me:</h2
+             <a href="https://www.linkedin.com/in/evelyn-nobile/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" style="width: 100px; height: 30px; margin-left: 5px;" />
-  </a> </p>
+  </a>          
 
 </div>
 
