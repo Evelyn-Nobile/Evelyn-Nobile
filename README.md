@@ -1,6 +1,8 @@
 <div style="text-align: center;">
   <h1>Hi there 👋 I'm Evelyn 👩🏻‍💻</h1>
   <p><strong>Buenos Aires, Argentina 🌎</strong></p>
+  ![Profile Views](https://komarev.com/ghpvc/?username=evelyn-nobile)
+
 
   <img src="https://raw.githubusercontent.com/Evelyn-Nobile/Evelyn-Nobile/main/banner.gif" style="display: block; margin: auto;" />
 
