@@ -31,7 +31,7 @@
 [![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=zustand&logoColor=white)](https://zustand.surge.sh/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.0-563d7c?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.0-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
