@@ -72,7 +72,7 @@
 
 
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-top: 50px;">
+<div style="display: flex; flex-direction:row; align-items: center; margin-top: 50px;">
   <a href="https://git.io/streak-stats" style="display: inline-block;">
     <img src="https://streak-stats.demolab.com?user=Evelyn-Nobile&theme=radical" alt="GitHub Streak" />
   </a>
