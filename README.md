@@ -69,7 +69,7 @@
     <img src="https://streak-stats.demolab.com?user=Evelyn-Nobile&theme=radical" alt="GitHub Streak" />
 </a>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelyn-nobile&show_icons=true&theme=radical)
      
   </div>
 
