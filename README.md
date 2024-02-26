@@ -1,7 +1,8 @@
 <div style="text-align: center;">
   <h1>Hi there 👋 I'm Evelyn 👩🏻‍💻</h1>
   <p><strong>Buenos Aires, Argentina 🌎</strong></p>
-![(https://komarev.com/ghpvc/?username=evelyn-nobile&color=ff69b4)
+![Profile Views](https://komarev.com/ghpvc/?username=evelyn-nobile&color=ff69b4)
+
 
 
 
