@@ -65,7 +65,10 @@
   
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Evelyn-Nobile&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" style="display: inline-block; margin-top: 20px;">
+    <img src="https://streak-stats.demolab.com?user=Evelyn-Nobile&theme=radical" alt="GitHub Streak" />
+</a>
+
 
      
   </div>
