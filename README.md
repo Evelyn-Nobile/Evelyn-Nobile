@@ -56,11 +56,11 @@
     <li>🌱 I’m currently learning: ux/ui design and Phyton (from 26/2 to 12/7)</li>
     <li>📫 How to reach me: <a href="mailto:nobileevelyn1@gmail.com">nobileevelyn1@gmail.com</a></li>
   </ul>
-  
-<h2>Connect with me.:</h2>
-<div style="display: flex; justify-content: center; gap: 20px;">
+
+<div style="display: flex; justify-content: center; gap: 20px;">    
+<h2>Connect with me:</h2>
   <a href="https://www.linkedin.com/in/evelyn-nobile/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Evelyn-Nobile/Evelyn-Nobile/main/link.png" alt="LinkedIn" title="LinkedIn" style="width: 50px; height: 50px; margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/Evelyn-Nobile/Evelyn-Nobile/main/link.png" alt="LinkedIn" title="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;" />
   </a>
   
 </div>
