@@ -77,7 +77,7 @@
     <img src="https://streak-stats.demolab.com?user=Evelyn-Nobile&theme=radical" alt="GitHub Streak" />
   </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=evelyn-nobile&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-top: 20px;" />
+ 
 </div>
 
      
